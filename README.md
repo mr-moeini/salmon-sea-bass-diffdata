@@ -21,5 +21,11 @@ Pandas
 
 Result:
 
+scatter plot:
+
 ![image](https://user-images.githubusercontent.com/3306765/117923450-46de8d80-b309-11eb-9e61-7ca73c1b9988.png)
 
+
+histogram:
+
+![image](https://user-images.githubusercontent.com/3306765/117924990-ddac4980-b30b-11eb-8458-f6decd3702ee.png)
