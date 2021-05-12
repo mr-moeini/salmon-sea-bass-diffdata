@@ -29,3 +29,8 @@ scatter plot:
 histogram:
 
 ![image](https://user-images.githubusercontent.com/3306765/117924990-ddac4980-b30b-11eb-8458-f6decd3702ee.png)
+
+change size of histogram:
+ax=df_salmon.plot.hist(figsize=(10,10))
+
+![image](https://user-images.githubusercontent.com/3306765/117925553-ad18df80-b30c-11eb-9f3f-204c99288751.png)
